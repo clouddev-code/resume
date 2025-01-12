@@ -87,7 +87,7 @@ Apache、nginx、Fluentbit、OpenTelmetry
 
 【言語・フレームワーク】
 
-Go・React・TypeScript
+TypeScript
 
 【インフラ】
 
