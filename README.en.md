@@ -276,7 +276,7 @@ Specific tasks include:
 
 - Function development testing
 
-### Think Corporation
+### Sync Corporation
 
 #### 
 
